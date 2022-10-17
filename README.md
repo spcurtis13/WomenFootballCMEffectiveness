@@ -1,4 +1,1 @@
-# England_Euro-2004xG
-Practice Project for xG using 2003-04 data from Premier league and Champions League
-
-I am making some edits for git. Aren't I cool.
+This project is an exploratory data analysis project that looks at the effectiveness of center mids during the Women's Super League 2019-2020 season.
