@@ -1,5 +1,0 @@
-This is a practice problem for learnign about git
-
-Aren't I very cool.
-Make some more edits.
-This is very neato.
