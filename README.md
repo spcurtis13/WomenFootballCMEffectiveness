@@ -8,4 +8,4 @@ This project uses Statsbomb data that only records where players are at when an 
 
 
 
-![Soccer Zone Diagram](https://www.google.com/url?sa=i&url=http%3A%2F%2Fleochanperformanceanalysis.blogspot.com%2F2013%2F08%2Fwhat-is-zone-14-in-football.html&psig=AOvVaw2RELiflGKcdhH2ukz4XLOP&ust=1666353210601000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIji68rf7voCFQAAAAAdAAAAABAI)
+![Soccer Zone Diagram]([https://scontent.fhio2-1.fna.fbcdn.net/v/t1.6435-9/95101085_132027685111112_8344713795012132864_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=973b4a&_nc_ohc=wtvsYzbPm5EAX9domVS&_nc_ht=scontent.fhio2-1.fna&oh=00_AT86FBQ9rPg0Kr7QlcL-kjfRHrt-rKK_LIu9jvOfApKqNw&oe=6378B84D.png])
