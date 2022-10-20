@@ -8,4 +8,4 @@ This project uses Statsbomb data that only records where players are at when an 
 
 
 
-![Soccer Zone Diagram]([https://scontent.fhio2-1.fna.fbcdn.net/v/t1.6435-9/95101085_132027685111112_8344713795012132864_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=973b4a&_nc_ohc=wtvsYzbPm5EAX9domVS&_nc_ht=scontent.fhio2-1.fna&oh=00_AT86FBQ9rPg0Kr7QlcL-kjfRHrt-rKK_LIu9jvOfApKqNw&oe=6378B84D.png])
+![Soccer Zone Diagram]([[https://scontent.fhio2-1.fna.fbcdn.net/v/t1.6435-9/95101085_132027685111112_8344713795012132864_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=973b4a&_nc_ohc=wtvsYzbPm5EAX9domVS&_nc_ht=scontent.fhio2-1.fna&oh=00_AT86FBQ9rPg0Kr7QlcL-kjfRHrt-rKK_LIu9jvOfApKqNw&oe=6378B84D.png](http://4.bp.blogspot.com/-Xe5BSJEwN30/Ug7Ojj-t-zI/AAAAAAAAA3I/oK-rO8JUgV4/s1600/zone+14+in+18+zones.png)])
