@@ -1,4 +1,4 @@
-This project is an exploratory data analysis project that looks at the effectiveness of center mids during the Women's Super League 2019-2020 season.
+This project is an exploratory data analysis project that looks at the effectiveness of center mids during the Women's Super League 2018 -2019 season.
 
 This project uses Statsbomb data that only records where players are at when an event occurs (shot, pass, tackle, etc.). This was an interesting restriction on exploring center mids because a lot of impact happens in the lead up to events not just the events themselves. The project had to narrow its scope which proved beneficial in hindsight to just center-mids offensive impact. To determine a large part of the rating basic stats were used that statsbomb recorded over the course of games during the season like goals, errors, and key passes.
 
