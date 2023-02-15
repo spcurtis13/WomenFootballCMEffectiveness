@@ -1,8 +1,8 @@
-This project is an exploratory data analysis project that looks at the effectiveness of center mids during the Women's Super League 2018 -2019 season.
+This project is a fascinating exploratory analysis that delves into the effectiveness of center midfielders in the Women's Super League during the 2018-2019 season. The project relies on Statsbomb data, which exclusively tracks players' positions during significant events such as shots, passes, and tackles. While this data restriction limited the scope of the project, it ultimately proved beneficial, allowing for a closer examination of the center midfielders' offensive impact.
 
-This project uses Statsbomb data that only records where players are at when an event occurs (shot, pass, tackle, etc.). This was an interesting restriction on exploring center mids because a lot of impact happens in the lead up to events not just the events themselves. The project had to narrow its scope which proved beneficial in hindsight to just center-mids offensive impact. To determine a large part of the rating basic stats were used that statsbomb recorded over the course of games during the season like goals, errors, and key passes.
+To develop the center midfielders' ratings, the project relied on several basic statistics that Statsbomb recorded throughout the season, such as goals, errors, and key passes. However, to provide additional nuance, the project also developed two composite statistics, including incomplete backward passes and forward passes completed in zones 5 and 8.
 
-I added two composite stats that provide some nuance which was the incomplete backward passes as well as the forward passes completed in zones 5/8. Zones 5 and 8 on a soccer pitch can be seen in the diagram below.
+It's worth noting that zones 5 and 8 are located on the defensive side of the soccer pitch and are depicted in the accompanying diagram. By analyzing forward passes completed in these zones, the project gained valuable insights into which center midfielders were truly excelling in the modern pressing game.
 
 <img src="http://4.bp.blogspot.com/-Xe5BSJEwN30/Ug7Ojj-t-zI/AAAAAAAAA3I/oK-rO8JUgV4/s1600/zone+14+in+18+zones.png" alt="Alt text" title="Optional title">
 
